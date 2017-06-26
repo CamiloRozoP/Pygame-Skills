@@ -1,0 +1,8 @@
+up: arriba
+down: abajo
+left: izquierda
+right: derecha
+s: disparar
+a: transformarse
+r: reiniciar
+space: pausar
