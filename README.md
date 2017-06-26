@@ -1,6 +1,6 @@
 # Pygame-Project
-# Juego Principal DBZ
-# Bonus Helicoptero
+* Juego Principal DBZ
+* Bonus Helicoptero
 > Game developed using Python 3.4 and Pygame 1.93-3.4
 
 # Requisitos:
