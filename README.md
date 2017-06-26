@@ -15,3 +15,5 @@
 # Desarrollo:
 * Camilo Armando Rozo Piñeros 20142020152 
 * Universidad Distrital Francisco Jose de Caldas
+
+<img src=https://www.prometec.net/wp-content/uploads/2017/05/pygame_logo.gif />
