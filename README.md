@@ -5,15 +5,25 @@
 * Tener Python 
 * Tener Pygame
 
-# Instrucciones
-* Ejecuta el archivo game.py
-* Enter para seleccionar jugar
-* Usa W A S D para moverte, SPACE para disparar.
-* SHIFT para tirar bombas, and P para poner pausa.
+# Instrucciones:
+* Ejecuta el archivo dbz.py
+* Up: arriba
+* Down: abajo
+* Left: izquierda
+* Right: derecha
+* S: disparar
+* A: transformarse
+* R: reiniciar
+* Space: pausar
 * Disfrutar
 
 # Desarrollo:
-* Camilo Armando Rozo Piñeros 20142020152 
-* Universidad Distrital Francisco Jose de Caldas
 
+* Camilo Armando Rozo Piñeros 20142020152
+* Brayan Steven Clavijo Beltrán: 20142020135
+* Universidad Distrital Francisco Jose de Caldas
+<img https://www.gratistodo.com/wp-content/uploads/2016/07/dragon-ball-super-wallpaper-xc.jpg />
 <img src=https://www.prometec.net/wp-content/uploads/2017/05/pygame_logo.gif />
+
+# BONUS JUEGO EXTRA:
+
