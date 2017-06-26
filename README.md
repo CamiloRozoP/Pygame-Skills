@@ -1,7 +1,8 @@
 # Pygame-Project
 * Juego Principal DBZ
 * Bonus Helicoptero
-> Game developed using Python 3.4 and Pygame 1.93-3.4
+> Game developed using Python 3.4 and Pygame 1.93-3.4 
+* Curso Pygame 2017-1 Alejandro Daza 
 
 # Requisitos:
 * Tener Python 
