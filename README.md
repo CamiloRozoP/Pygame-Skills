@@ -1,5 +1,5 @@
 # Pygame-Skills
-Game developed using Python 3.4 and Pygame 1.93-3.4
+# Game developed using Python 3.4 and Pygame 1.93-3.4
 Se aplicaron los conocimientos del curso Pygame 2017-1 Por el profesor Alejandro Daza
 Instrucciones
 usa W A S D para moverte, SPACE para disparar
