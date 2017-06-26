@@ -17,7 +17,9 @@
 * A: transformarse
 * R: reiniciar
 * Space: pausar
-* Disfrutar
+* Reune energia destruyendo a tus enemigos
+* Cargate de energia para convertirte en un SUPER SAYAYIN!
+* Disfruta
 
 # Desarrollo:
 
