@@ -28,4 +28,10 @@
 <img src=https://www.prometec.net/wp-content/uploads/2017/05/pygame_logo.gif />
 
 # BONUS JUEGO EXTRA:
+# Instrucciones:
+* Ejecuta el archivo game.py
+* Enter para seleccionar jugar
+* Usa W A S D para moverte, SPACE para disparar.
+* SHIFT para tirar bombas, and P para poner pausa.
+* Disfrutar
 
